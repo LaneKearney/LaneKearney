@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lane! <br/><a href="https://github.com/LaneKearney">Programmer</a>, <a href="https://www.linkedin.com/in/lanekearney1/"> Data Scientist</a></a></h1>
+<h1>Hi, I'm Lane! <br/><a href="https://github.com/LaneKearney">Programmer</a> and <a href="https://www.linkedin.com/in/lanekearney1/"> Data Scientist</a></a></h1>
 
 <h2>👨‍💻 Data Science:</h2>
 
